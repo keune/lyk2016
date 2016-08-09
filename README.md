@@ -37,5 +37,5 @@ Linux Yaz Kampı 2016 Web Uygulama Güvenliği ve Güvenli Kod Geliştirme Kursu
 * Alper Sarper(http://github.com/)
 * Eda Solak(http://github.com/)
 * Burak Çakmak(http://github.com/)
-* Ahmet Kun(http://github.com/)
+* [Ahmet Kun](http://github.com/keune)
 * Mücahit Demirhan(http://github.com/)
